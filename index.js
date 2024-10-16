@@ -26,4 +26,4 @@ for(let i = 0; i < flavorList.length; i ++) {
 console.log (flavorCount);
 
 // test with "vanilla,vanilla,vanilla,strawberry,coffee,coffee"
-// result: { vanilla: 3, strawberry: 1, coffee: 2 }
+// expected result: { vanilla: 3, strawberry: 1, coffee: 2 }
